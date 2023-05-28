@@ -21,8 +21,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "clean": "gh-pages-clean",
-    "postdeploy": "git branch -D gh-pages && git push origin --delete gh-pages"
+    "clean": "gh-pages-clean"
   },
   "eslintConfig": {
     "extends": [
