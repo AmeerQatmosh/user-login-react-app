@@ -36,7 +36,7 @@ export default function Login() {
             <p>
               Don't have an account? <Link to="/signup">Register</Link>
             </p>
-            <Link to="/" className="btn btn-link">
+            <Link to="/user-login-react-app" className="btn btn-link">
               Back to Home
             </Link>
           </div>

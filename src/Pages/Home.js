@@ -14,8 +14,7 @@ export default function Home() {
               </div>
               <h2 className="card-title mb-4">Welcome to the Homepage</h2>
               <p className="card-text">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo vitae dolor eu tristique. Nulla facilisi. Mauris ac
-                interdum metus, id sollicitudin turpis.
+              You are on the Home page, you can log in or Sign up if you went, we are happy for you to join us.
               </p>
               <div className="text-center">
                 <Link to="/login" className="btn btn-primary me-3">

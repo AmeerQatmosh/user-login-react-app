@@ -43,7 +43,7 @@ export default function SignUp() {
             Forgot <a href="#">password?</a>
           </p>
           <div className="text-center mt-3">
-            <Link to="/" className="btn btn-link">
+            <Link to="/user-login-react-app" className="btn btn-link">
               Back to Home
             </Link>
           </div>
